@@ -2,8 +2,8 @@
   <h1>Hi there, I'm Anurag Sharma 👋</h1>
   <h3>Full-Stack MERN Developer | Java Programmer | AI Enthusiast</h3>
   <p>
-    [cite_start]A passionate Full-Stack Developer from India specializing in building secure and scalable web applications[cite: 3]. 
-    [cite_start]I have a strong foundation in Data Structures and Algorithms, having solved over 1000 problems on platforms like LeetCode[cite: 45].
+    A passionate Full-Stack Developer from India specializing in building secure and scalable web applications. 
+    I have a strong foundation in Data Structures and Algorithms, having solved over 1000 problems on platforms like LeetCode.
     <br />
     Currently, I am diving deep into the world of Deep Learning, NLP, and Generative AI.
   </p>
@@ -20,9 +20,9 @@
 ### 🚀 What I Do
 
 -   🌱 I’m currently learning **Deep Learning, NLP, and Generative AI**.
--   [cite_start]💬 Ask me about **React, Node.js, Express.js, MongoDB, MySQL, and Java**[cite: 22, 23].
--   [cite_start]📫 You can reach me at **anuragsharma07575@gmail.com**[cite: 3].
--   [cite_start]🏆 Achievement Highlight: I secured the **1st rank in my school in Grade 10** [cite: 50] [cite_start]and have won multiple coding competitions, including a **Blind Coding Challenge** [cite: 46] [cite_start]and **CodeHrs**[cite: 47].
+-   💬 Ask me about **React, Node.js, Express.js, MongoDB, MySQL, and Java**.
+-   📫 You can reach me at **anuragsharma07575@gmail.com**.
+-   🏆 Achievement Highlight: I secured the **1st rank in my school in Grade 10** and have won multiple coding competitions, including a **Blind Coding Challenge** and **CodeHrs**.
 
 ---
 
@@ -114,14 +114,16 @@
 
 | Project                                     | Description                                                                                                                                                                             | Tech Stack                                                     |
 | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| [cite_start]**Online Therapist Booking** [cite: 25]                | [cite_start]A secure and scalable MERN stack platform for booking therapists[cite: 27]. [cite_start]Features real-time scheduling, automated email notifications, and JWT/OAuth for secure, role-based access[cite: 28, 30]. | [cite_start]`React` `Node.js` `Express.js` `MongoDB` [cite: 26]          |
-| [cite_start]**Content Publishing Platform** [cite: 31]         | [cite_start]A dynamic MERN stack blog platform with secure user authentication and a full-featured dashboard[cite: 33, 34]. [cite_start]Includes social features like likes, comments, and sharing[cite: 35].       | [cite_start]`React` `Node.js` `Express.js` `MongoDB` [cite: 32]          |
-| [cite_start]**Image Classification using DL** [cite: 36] | [cite_start]A deep learning model that classifies images using a CNN architecture[cite: 38]. [cite_start]Performance was optimized using data augmentation, dropout regularization, and learning rate scheduling[cite: 40]. | [cite_start]`TensorFlow/Keras` `CNN` `Matplotlib` [cite: 37]             |
+| **Online Therapist Booking** | A secure and scalable MERN stack platform for booking therapists. Features real-time scheduling, automated email notifications, and JWT/OAuth for secure, role-based access. | `React` `Node.js` `Express.js` `MongoDB`          |
+| **Content Publishing Platform** | A dynamic MERN stack blog platform with secure user authentication and a full-featured dashboard. Includes social features like likes, comments, and sharing.       | `React` `Node.js` `Express.js` `MongoDB`          |
+| **Image Classification using DL** | A deep learning model that classifies images using a CNN architecture. Performance was optimized using data augmentation, dropout regularization, and learning rate scheduling. | `TensorFlow/Keras` `CNN` `Matplotlib`             |
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Coding Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Anurag's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <br><br>
+  <img src="https://leetcard.jacoblin.cool/anurag8090?theme=dark&font=Abel&ext=heatmap" alt="Anurag's LeetCode Stats" />
 </div>
